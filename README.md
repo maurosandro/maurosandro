@@ -5,7 +5,7 @@
 
 ## Eu sou Analista de Sistemas e atualmente trabalhando com Engenharia de Dados  
 
-### Tenho me empenhado em resolver problemas de negócios de Business Intelligence e Data data engineer AWS
+#### Tenho me empenhado em resolver problemas de negócios de Business Intelligence e Data Engineer AWS
 
 <!--
 **maurosandro/maurosandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
