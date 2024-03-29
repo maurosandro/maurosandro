@@ -61,8 +61,10 @@ Here are some ideas to get you started:
 </div>
           
 ## Soft Skills:
-- Ferramentas de apoio: Pentaho Server, HOP, Power Automate
-- Estudos autônomos: Azure
+- Boa Comunicação
+- Focado em resolução de problemas
+- Colaboração
+- Constante aprendizado
 
 ## Formação:
 - Pós-graduação em Analise de Sistemas - Universidade Estadual do Piauí (UESPI)
